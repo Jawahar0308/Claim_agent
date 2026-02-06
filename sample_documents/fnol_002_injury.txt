@@ -1,0 +1,45 @@
+AUTOMOBILE LOSS NOTICE
+ACORD FORM 2
+
+POLICY NUMBER: AUTO-2024-99887
+LINE OF BUSINESS: Personal Auto
+CARRIER: Premier Auto Insurance
+
+INSURED INFORMATION
+NAME OF INSURED (First, Middle, Last): Maria Elena Garcia
+DATE OF BIRTH: 07/10/1990
+INSURED'S MAILING ADDRESS: 234 Sunset Boulevard, Miami, FL 33101
+PRIMARY PHONE #: (555) 321-0987
+EFFECTIVE DATE: 06/15/2023
+
+LOSS INFORMATION
+DATE OF LOSS AND TIME: 03/25/2024 03:15 PM
+LOCATION OF LOSS
+CITY, STATE, ZIP: Miami, FL 33139
+
+DESCRIPTION OF ACCIDENT:
+T-bone collision at intersection. Insured vehicle had green light and was proceeding through intersection when struck on passenger side by vehicle running red light. Significant impact. Emergency services called immediately. Driver and passenger transported to Jackson Memorial Hospital for evaluation.
+
+POLICE OR FIRE DEPARTMENT CONTACTED: Yes
+REPORT NUMBER: MPD-2024-567890
+
+INSURED VEHICLE
+MAKE: Tesla
+MODEL: Model 3
+YEAR: 2022
+V.I.N.: 5YJ3E1EA9NF123456
+
+DAMAGE INFORMATION
+DESCRIBE DAMAGE: Severe damage to passenger side doors, B-pillar damage, passenger side airbags deployed, frame may be compromised
+ESTIMATE AMOUNT: $28,000
+
+INJURED
+NAME & ADDRESS: Maria Elena Garcia (Driver)
+EXTENT OF INJURY: Neck pain, back pain, possible whiplash - treated at Jackson Memorial Hospital ER
+AGE: 33
+
+NAME & ADDRESS: Carlos Mendez (Passenger)
+EXTENT OF INJURY: Minor cuts from broken glass, bruising from seatbelt - treated at Jackson Memorial Hospital ER
+AGE: 28
+
+CLAIMANT: Maria Elena Garcia
