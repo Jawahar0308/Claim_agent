@@ -167,10 +167,10 @@ sudo apt-get install tesseract-ocr poppler-utils
 
 ### Slow processing (30+ seconds)
 This is normal! Local LLMs are slower than cloud APIs but:
-- ✅ Completely free
-- ✅ No usage limits
-- ✅ Works offline
-- ✅ Better privacy
+- Completely free
+- No usage limits
+- Works offline
+- Better privacy
 
 ### "Failed to load dynamic library 'libtesseract.so.4'"
 ```bash
@@ -191,11 +191,11 @@ sudo apt-get install --reinstall tesseract-ocr libtesseract-dev
 
 ## Advantages of Local LLM
 
-✅ **Zero Cost** - No API bills ever  
-✅ **Privacy** - Data never leaves your machine  
-✅ **No Limits** - Process unlimited documents  
-✅ **Offline** - Works without internet  
-✅ **Customizable** - Can fine-tune the model  
+ **Zero Cost** - No API bills ever  
+ **Privacy** - Data never leaves your machine  
+ **No Limits** - Process unlimited documents  
+ **Offline** - Works without internet  
+ **Customizable** - Can fine-tune the model  
 
 ## Fallback Mode
 
@@ -222,10 +222,10 @@ model="llama2:13b"  # or "mistral"
 
 ## Next Steps
 
-1. ✅ Run `./setup.sh`
-2. ✅ Test with: `python3 main.py sample.pdf`
-3. ✅ Integrate into your workflow
-4. ✅ Process thousands of claims for free!
+1. Run `./setup.sh`
+2. Test with: `python3 main.py sample.pdf`
+3. Integrate into your workflow
+4. Process thousands of claims for free!
 
 ## Support
 
